@@ -23,6 +23,18 @@ body{
 .share{
   width:100%;
   text-align: center;
+    padding-bottom:6.5%;
+}
+
+.btnWPP{
+  padding:1%;
+  font-size:3rem;
+}
+.fb-share-button{
+
+}
+a{
+  color:white;
 }
 .navbar{
   padding-top:1%;
