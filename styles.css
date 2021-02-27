@@ -20,6 +20,10 @@ body{
   padding:0%;
 }
 
+.share{
+  width:100%;
+  text-align: center;
+}
 .navbar{
   padding-top:1%;
   padding-bottom:1%;
